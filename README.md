@@ -1,1 +1,31 @@
-# DibyaJyoti
+[![MasterHead](https://images.squarespace-cdn.com/content/v1/56b11aa122482ef10d74f229/1555352761792-MU2J85G6KCK2937FXP6O/Homepage+Banner+A.gif?format=2500w)]
+<h1 align="center">Hi 👋, I'm Dibyajyoti</h1>
+<h3 align="center">A passionate Cloud computing/Technology from India. Experienced with over 5.2 Months of experience in IT Department. Excellent reputation for resolving problems and improving customer satisfaction.</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyajyoticloud&label=Profile%20views&color=0e75b6&style=flat" alt="dibyajyoticloud" /> </p>
+
+- 🔭 I’m currently working on **AWS cloud computing**
+
+- 🌱 I’m currently learning **DevOps, Python**
+
+- 👯 I’m looking For Job Opportunities **AWS Cloud computing**
+
+- 📫 How to reach me **dibyajyotidas5@gmail.com**
+
+- 📄 Know about my experiences [Experienced with over 5.2 Months of experience in IT Department. Excellent reputation for resolving problems and improving customer satisfaction. To work efficiently and effectively as well as grow with a prestigious organization in the field of IT with the Conceptual Knowledge of Cloud Computing, Database, Mongo DB, nosql, Amazon Web Service, Cloud monitoring tool, Route53, AWS load balance and Auto scaling, Dockers, CICD Pipeline, AWS IAM Service, Firewall, Switch and Router, Avaya proficiency, VoIP Phone, Network troubleshooting, Windows Administration, Linux, VMware, Windows, CentOS Linux, Databases, Windows Server, Windows Virtualization Web Service, CSV, SCADA/PLC/HMI, Validation, Documentation skill, Diagnosis and troubleshooting of issues etc. so as to achieve self-realization and the accomplishment of organizational goals.](Experienced with over 5.2 Months of experience in IT Department. Excellent reputation for resolving problems and improving customer satisfaction. To work efficiently and effectively as well as grow with a prestigious organization in the field of IT with the Conceptual Knowledge of Cloud Computing, Database, Mongo DB, nosql, Amazon Web Service, Cloud monitoring tool, Route53, AWS load balance and Auto scaling, Dockers, CICD Pipeline, AWS IAM Service, Firewall, Switch and Router, Avaya proficiency, VoIP Phone, Network troubleshooting, Windows Administration, Linux, VMware, Windows, CentOS Linux, Databases, Windows Server, Windows Virtualization Web Service, CSV, SCADA/PLC/HMI, Validation, Documentation skill, Diagnosis and troubleshooting of issues etc. so as to achieve self-realization and the accomplishment of organizational goals.)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dibyajyoti-das-000a33142/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dibyajyoti-das-000a33142/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyajyoticloud&show_icons=true&locale=en&layout=compact" alt="dibyajyoticloud" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyajyoticloud&show_icons=true&locale=en" alt="dibyajyoticloud" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyajyoticloud&" alt="dibyajyoticloud" /></p>
